@@ -15,7 +15,8 @@ using ChoresAPI.Services;
 
 namespace ChoresAPI
 {
-    public class Startup
+   // Startup Class
+   public class Startup
     {
         public Startup(IHostingEnvironment env)
         {
